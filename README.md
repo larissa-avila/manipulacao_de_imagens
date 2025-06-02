@@ -1,1 +1,2 @@
-# manipulacao_de_imagens
+# stanford_img 
+É um projeto que tem como objetivo manipular uma imagem .pgm de stanford. Com o menu de opções exibido ao executar o programa, é possível clarear, escurecer, criar ruídos, iconizar, suavizar, e obter a imagem negativa de stanford.pgm. A cada opção escolhida, uma nova imagem é criada e salva na mesma pasta em que está a primeira. O projeto foi criado para explorar e manipular imagens criadas com matrizes.
