@@ -1,0 +1,1 @@
+# manipulacao_de_imagens
