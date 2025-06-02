@@ -28,13 +28,11 @@ using namespace std;
  */
 
 
-
 int main(int argc, char** argv) {
-    
-    Timagem img;
+
+    static Timagem img;
     string nome;
     int coluna, linha, tons, opcao;
-
 
     do{
         cout<<endl<<"Menu de Opções"<<endl<<"--------------------------------"<<endl;
